@@ -12,21 +12,36 @@
 
 ## Some stuff i'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,tailwind,svg,github,js,jquery,html,css,vscode,figma,illustrator,photoshop,premiere,aftereffects,au,instagram)](https://skillicons.dev)
+### Code:
 
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,tailwind,svg,github,js,jquery,html,css)
+
+- React
 - Node.js
 - Express.js
-- Mongo DB
+- MongoDB
 - Heroku
 - Bootstrap
+- Tailwind
 - SVG
+- Github
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+
+### Software
+
+![My Skills](https://skillicons.dev/icons?i=vscode,figma,illustrator,photoshop,premiere,aftereffects,au,instagram)
+
+- VS Code
 - Figma
 - Adobe Illustrator
-- Github
-- JS
-- HTML
-- CSS
-- Visual Studio Code
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Adobe After Effects
+- Adobe Audition
+- Instagram
 
 # Some Stuff I've Built
 
