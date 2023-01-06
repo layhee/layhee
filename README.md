@@ -12,7 +12,7 @@
 
 ## Some stuff i'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,heroku,bootstrap,svg,figma,illustrator,github,js,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,tailwind,svg,github,js,jquery,html,css,vscode,figma,illustrator,photoshop,premiere,aftereffects,au,instagram)](https://skillicons.dev)
 
 - Node.js
 - Express.js
@@ -28,24 +28,26 @@
 - CSS
 - Visual Studio Code
 
-## Some Stuff I've Built
+# Some Stuff I've Built
 
-Check it out here : https://rigs-n-routes.herokuapp.com/
+## Rigs & Routes
 
-## Site
+## Mongoose/Node/Express Site
 
 A site for sharing bikepacking rigs/bikes and routes/trips. Users will be able to login or register, upload details on the build of their bike (things such as frame manufacturer, wheel size, drivetrain, bags used), and an option to add a trip they've taken on the bike.
 
+Check it out here : https://rigs-n-routes.herokuapp.com/
+
 ![](https://dev.lehi.work/scr-home.png)
 
-## To-do / Future Updates
+# To-do / Future Enhancements
 
-- Make file upload fully functional
-- Allow multiple image uploads and organize in a gallery display (carousel maybe?)
-- Connect Rides to Rigs to show which routes have been ridden on which bikes and vice/versa.
+- Currently learning full stack development at General Assembly
+- I'm working on being more communicative
 
 ## More Personal Stuff
 
 <img src="https://dev.lehi.work/self.png" height="220px">
 
-[Lehi.work](https://lehi.work) | [Github](https://github.com/layhee) | [send@Lehi.work](mailto:send@lehi.work)
+Portfolio [lehi.work](https://lehi.work) | Email [send@lehi.work](mailto:send@lehi.work)\
+[Github](https://github.com/layhee) | [Instagram](https://www.instagram.com/stay.loose/) | [Youtubes](https://youtube.com/user/onacihel)
