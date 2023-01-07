@@ -1,11 +1,11 @@
-<img width="150px" src='https://dev.lehi.work/rnr-logo-w.png'>
+<img width="960px" src='https://dev.lehi.work/img/git-logo-intro.png'>
 
-# Lehi Cano - Gears Always Turning
+---
 
 <table>
 <tr>
 <td>
-  Hello world! I build digital tools and toys to help folks make their lives simpler and/or more enjoyable. I love picking at a problem or working towards a solution to break down large complex tasks into manageable bites/bytes to find an answer. The simplicity of the bicycle and a need for clean, concise functionality while having fun motivates me to work harder and progress my knowledge base.
+  I build digital tools and toys to help folks make their lives simpler and/or more enjoyable. I love picking at a problem or working towards a solution to break down large complex tasks into manageable bites/bytes to find an answer. The simplicity of the bicycle and a need for clean, concise functionality while having fun motivates me to work harder and progress my knowledge base.
 </td>
 </tr>
 </table>
