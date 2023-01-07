@@ -1,4 +1,4 @@
-<img width="960px" src='https://dev.lehi.work/img/git-logo-intro.png'>
+<img width="960px" src='https://dev.lehi.work/img/git-intro.png'>
 
 ---
 
