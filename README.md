@@ -54,7 +54,7 @@ A site for sharing bikepacking rigs/bikes and routes/trips. Users will be able t
 Check it out here : https://rigs-n-routes.herokuapp.com/
 
 ![](https://dev.lehi.work/scr-home.png)
-
+ 
 # To-do / Future Enhancements
 
 - Currently learning full stack development at General Assembly
