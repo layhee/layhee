@@ -54,8 +54,8 @@ A site for sharing bikepacking rigs/bikes and routes/trips. Users will be able t
 
 ### Check it out here : [Rigs & Routes](https://rigs-n-routes.herokuapp.com/)
 
-<img src="img/scr-home.png" width="49%">
-<img src="img/scr-rig.png" width="49%">
+<img src="img/scr-home.png" width="49%" display="inline-block">
+<img src="img/scr-rig.png" width="49%" display="inline-block">
 <hr>
 
 ## Rummage - Trash to Cash
