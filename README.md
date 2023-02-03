@@ -1,20 +1,20 @@
-<img width="960px" src='https://dev.lehi.work/img/git-logo-intro.png'>
+<img width="960px" src='img/git-intro.png'>
 
 ---
 
 <table>
 <tr>
 <td>
-  I build digital tools and toys to help folks make their lives simpler and/or more enjoyable. I love picking at a problem or working towards a solution to break down large complex tasks into manageable bites/bytes to find an answer. The simplicity of the bicycle and a need for clean, concise functionality while having fun motivates me to work harder and progress my knowledge base.
+  I employ my foundation in visual art and communication design using modern front end frameworks and utilities to build interactive web apps. I strive to take creative approaches to practical applications. I love picking at a problem or working towards a solution to break down large complex tasks into manageable bits to find an answer.
 </td>
 </tr>
 </table>
 
-## Some stuff i'm familiar with:
+## I've worked with:
 
 ### Code:
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,tailwind,svg,github,js,jquery,html,css)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,tailwind,git,js,jquery,html,css,django,bash)
 
 - React
 - Node.js
@@ -29,6 +29,7 @@
 - jQuery
 - HTML5
 - CSS3
+- Django
 
 ### Software
 
@@ -43,26 +44,36 @@
 - Adobe Audition
 - Instagram
 
-# Some Stuff I've Built
+# Projects
 
 ## Rigs & Routes
 
-## Mongoose/Node/Express Site
+### Mongoose/Express/Node Full CRUD Site
 
 A site for sharing bikepacking rigs/bikes and routes/trips. Users will be able to login or register, upload details on the build of their bike (things such as frame manufacturer, wheel size, drivetrain, bags used), and an option to add a trip they've taken on the bike.
 
-Check it out here : https://rigs-n-routes.herokuapp.com/
+### Check it out here : [Rigs & Routes](https://rigs-n-routes.herokuapp.com/)
 
-![](https://dev.lehi.work/scr-home.png)
+<img src="img/scr-home.png" width="49%">
+<img src="img/scr-rig.png" width="49%">
+<hr>
 
-# To-do / Future Enhancements
+## Rummage - Trash to Cash
 
-- Currently learning full stack development at General Assembly
-- I'm working on being more communicative
+### Mongoose/Express/React/Node Team project.
 
-## More Personal Stuff
+A community marketplace for getting rid of unused, but valuable items that are better off being used by someone, not cluttering your home. In a team of three, I was Product Manager and Lead Front End Developer. [Moe Ahmed](https://github.com/Kingsimba754) was the Deployment Manager, and [Jimmy Huang](https://github.com/maydayjimmy) took the Lead Back End role.
 
-<img src="https://dev.lehi.work/self.png" height="220px">
+### Check it out here : [Rummage - Trash to Cash](https://rummage-rumg.netlify.app/)
 
-Portfolio [lehi.work](https://lehi.work) | Email [send@lehi.work](mailto:send@lehi.work)\
+<img src="img/rummage.jpg" width="68%">
+<img src="img/rummage-mobile.png" width="30%">
+
+<hr>
+
+## Socials/Contact
+
+<img src="img/head-cropped.jpg" height="220px">
+
+Portfolio [lehi.me](https://lehi.me) | Email [onacihel@gmail.com](mailto:onacihel@gmail.com)\
 [Github](https://github.com/layhee) | [Instagram](https://www.instagram.com/stay.loose/) | [Youtubes](https://youtube.com/user/onacihel)
