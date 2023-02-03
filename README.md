@@ -16,33 +16,25 @@
 
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,tailwind,git,js,jquery,html,css,django,bash)
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Heroku
-- Bootstrap
-- Tailwind
-- SVG
-- Github
-- JavaScript
-- jQuery
-- HTML5
-- CSS3
-- Django
+| Code       |          |
+| ---------- | -------- |
+| React      | Node     |
+| JavaScript | Express  |
+| jQuery     | MongoDB  |
+| HTML5      | CSS3     |
+| Django     | Heroku   |
+| Bootstrap  | Tailwind |
+| Git        | Bash     |
 
 ### Software
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,figma,illustrator,photoshop,premiere,aftereffects,au,instagram)
 
-- VS Code
-- Figma
-- Adobe Illustrator
-- Adobe Photoshop
-- Adobe Premiere Pro
-- Adobe After Effects
-- Adobe Audition
-- Instagram
+| Software             |     |
+| -------------------- | --- |
+| VS Code              |     |
+| Figma                |     |
+| Adobe Creative Cloud |     |
 
 # Projects
 
