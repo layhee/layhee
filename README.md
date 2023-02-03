@@ -46,6 +46,18 @@
 
 # Projects
 
+## My Portfolio Site
+
+### React, Custom Web Fonts, Custom CSS
+
+I built my portolio site with React, Font Awesome Icons, Adobe Typekit fonts, and custom CSS. Built to be fully responsive and interactive.
+
+### Check it out here : [Lehi.me](https://lehi.me/)
+
+<img src="img/port-home.jpg" width="49%" display="inline-block">
+<img src="img/port-work.jpg" width="49%" display="inline-block">
+<hr>
+
 ## Rigs & Routes
 
 ### Mongoose/Express/Node Full CRUD Site
