@@ -46,7 +46,7 @@ I built my portolio site with React, Font Awesome Icons, Adobe Typekit fonts, an
 
 ### Check it out here : [Lehi.me](https://lehi.me/)
 
-| <img src="img/port-home.jpg" width="40%"> | <img src="img/port-work.jpg" width="40%"> |
+| <img src="img/port-home.jpg" width="47%"> | <img src="img/port-work.jpg" width="47%"> |
 
 <hr>
 
@@ -58,8 +58,8 @@ A site for sharing bikepacking rigs/bikes and routes/trips. Users will be able t
 
 ### Check it out here : [Rigs & Routes](https://rigs-n-routes.herokuapp.com/)
 
-<img src="img/scr-home.png" width="49%" display="inline-block">
-<img src="img/scr-rig.png" width="49%" display="inline-block">
+| <img src="img/scr-home.png" width="47%"> | <img src="img/scr-rig.png" width="47%">|
+
 <hr>
 
 ## Rummage - Trash to Cash
@@ -70,8 +70,7 @@ A community marketplace for getting rid of unused, but valuable items that are b
 
 ### Check it out here : [Rummage - Trash to Cash](https://rummage-rumg.netlify.app/)
 
-<img src="img/rummage.jpg" width="68%">
-<img src="img/rummage-mobile.png" width="30%">
+| <img src="img/rummage.jpg" width="65%"> | <img src="img/rummage-mobile.png" width="28.5%"> |
 
 <hr>
 
