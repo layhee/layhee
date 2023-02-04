@@ -46,8 +46,8 @@ I built my portolio site with React, Font Awesome Icons, Adobe Typekit fonts, an
 
 ### Check it out here : [Lehi.me](https://lehi.me/)
 
-<img src="img/port-home.jpg" width="49%" display="inline-block">
-<img src="img/port-work.jpg" width="49%" display="inline-block">
+| <img src="img/port-home.jpg" width="40%"> | <img src="img/port-work.jpg" width="40%"> |
+
 <hr>
 
 ## Rigs & Routes
@@ -80,4 +80,4 @@ A community marketplace for getting rid of unused, but valuable items that are b
 <img src="img/head-cropped.jpg" height="220px">
 
 Portfolio [lehi.me](https://lehi.me) | Email [onacihel@gmail.com](mailto:onacihel@gmail.com)\
-[Github](https://github.com/layhee) | [Instagram](https://www.instagram.com/stay.loose/) | [Youtubes](https://youtube.com/user/onacihel)
+[Linked In](https://www.linkedin.com/in/lehicano/) | [Instagram](https://www.instagram.com/stay.loose/) | [Youtubes](https://youtube.com/user/onacihel)
