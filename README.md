@@ -76,7 +76,7 @@ A community marketplace for getting rid of unused, but valuable items that are b
 
 ## Socials/Contact
 
-<img src="img/head-cropped.jpg" height="220px">
+<img src="img/head-cropped.jpg" style="border-radius:50%" height="220px">
 
 Portfolio [lehi.me](https://lehi.me) | Email [onacihel@gmail.com](mailto:onacihel@gmail.com)\
 [Linked In](https://www.linkedin.com/in/lehicano/) | [Instagram](https://www.instagram.com/stay.loose/) | [Youtubes](https://youtube.com/user/onacihel)
